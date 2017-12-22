@@ -1,0 +1,17 @@
+.btn {
+    margin: 5px 5px 5px 5px;
+}
+#grids{
+    display: flex
+}
+#rowsTable{
+    display: flex;
+    justify-content: flex-end;
+}
+#acao{
+    text-align: right
+}
+.maskedAsDone {
+    text-decoration: line-through;
+    color:#666
+}
